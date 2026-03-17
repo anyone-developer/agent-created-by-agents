@@ -231,7 +231,7 @@ cp -r agent-lite-fullstack-engineer/* ~/.openclaw/workspace-lite-fullstack/
 
 #### Step 4: 重启 OpenClaw
 ```bash
-openclaw restart
+openclaw gateway restart
 ```
 
 #### Step 5: 开始使用

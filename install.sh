@@ -89,7 +89,7 @@ esac
 echo ""
 echo "📝 下一步:"
 echo "1. 编辑 $OPENCLAW_DIR/openclaw.json 添加 Agent 配置"
-echo "2. 运行 'openclaw restart' 重启服务"
+echo "2. 运行 'openclaw gateway restart' 重启服务"
 echo "3. 在 Aight App 中选择 Agent 开始使用"
 echo ""
 echo "📚 详细文档: https://github.com/anyone-developer/agent-created-by-agents"
